@@ -1,2 +1,1 @@
-"Hello from scenario1" 
-"Andy was here!" 
+"Another text" 
